@@ -1,0 +1,12 @@
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\School\VSSchool\PT2_IvanIgnatov11e\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
